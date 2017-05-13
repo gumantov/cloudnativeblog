@@ -77,7 +77,7 @@ Configuration file: /Users/cnblog_production/_config.yml
 ```
 You can get all the steps and how to customize and improve your blog by reading the jekyll website.
 
-#[Go to Jekyll](https://jekyllrb.com/)
+[Go to Jekyll](https://jekyllrb.com/)
 
 After doing that you can go to your folder and check that Jekyll created another folder called sites where your static webpages live. This is the folder you will have to upload to Google Cloud Storage in order to make your blog available online. I am managing my domain using Google Domains and I am pointing the domain to Google Cloud
 
